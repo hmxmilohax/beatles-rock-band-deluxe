@@ -2,7 +2,6 @@ git pull https://github.com/hmxmilohax/beatles-rock-band-deluxe main
 @echo OFF
 echo:Make sure your 1.0 vanilla ark files are in _build/Xbox/gen/
 del "%~dp0\_build\Xbox\gen\main_xbox.hdr"
-del "%~dp0\_build\Xbox\gen\main_xbox_2.ark"
 xcopy "%~dp0\_build\_rebuild_files\main_xbox.hdr" "%~dp0\_build\Xbox\gen" >nul
 echo:Building Beatles Rock Band Deluxe patch arks.
 echo:The "Unhandled exception" below is expected, and does not indicate failure.
