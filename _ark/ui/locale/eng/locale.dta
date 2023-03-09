@@ -4014,495 +4014,495 @@
 (loading
    "Loading...")
 (loading_additional
-   "Loading Downloadable Content")
+   "Loading Customs & Downloadable Content")
 (loading_help1
-   "Some TV and home theater setups can create a delay between what you see and what you hear. If the gameplay seems out of sync, select Calibrate System from the Options menu to fix the lag.")
+   "The Beatles actually don’t exist. It’s just Ringo moving very fast")
 #ifdef HX_XBOX
 (loading_help10
-   "You can use most USB microphones to sing in The Beatles: Rock Band.")
+   "The original lyrics for Yesterday were 'Scrambled eggs / Oh my baby, how I love your legs / Not as much as I love scrambled eggs.'")
 #endif
 #ifdef HX_PS3
 (loading_help10
-   "You can use most USB microphones to sing in The Beatles: Rock Band.")
+   "The original lyrics for Yesterday were 'Scrambled eggs / Oh my baby, how I love your legs / Not as much as I love scrambled eggs.'")
 #endif
 #ifdef HX_WII
 (loading_help10
-   "Some TV and home theater setups can create a delay between what you see and what you hear. If the gameplay seems out of sync, select Calibrate System from the Options menu to fix the lag.")
+   "The original lyrics for Yesterday were 'Scrambled eggs / Oh my baby, how I love your legs / Not as much as I love scrambled eggs.'")
 #endif
 #ifdef HX_PC
 (loading_help10
-   "You can use most USB microphones to sing in The Beatles: Rock Band.")
+   "The original lyrics for Yesterday were 'Scrambled eggs / Oh my baby, how I love your legs / Not as much as I love scrambled eggs.'")
 #endif
 (loading_help11
-   "Play flawlessly to get a score multiplier going. The longer you hold a streak, the higher your multiplier will get.")
+   "In a suite at a Disney World, The Beatles officially ended with John signing the dissolution document on December 29, 1974.")
 (loading_help12
-   "Be sure to visit the Tutorials to learn about using Beatlemania to drive the crowd wild, gain extra points, or even save a bandmate who didn't make it through a song!")
+   "'It was something that entered our lives, and I thought it would be a good idea to write a song with ‘Got to get you into my life,’ and only I would know that I was talking about pot. It was very joyous at that time.' - Paul McCartney on weed.")
 (loading_help13
-   "If you see a series of glowing white notes, play the whole series without making a mistake -- this will fill up your meter so you can trigger Beatlemania!")
+   "'I became aware of the affair when she would turn up at midnight and she’d still be there the next day,' - Pattie Boyd on George sleeping with Ringo’s wife")
 (loading_help14
-   "Take a moment to set your drum controller to the right height. It makes a big difference.")
+   "Paul's hotel alias, Paul Ramone, was the inspiration for the band name ‘The Ramones’")
 (loading_help15
-   "On tricky drum beats, focus on the foot pedal and red pad first and foremost. The crowd won't mind as much if you miss some yellow, blue, or green notes.")
+   "One idea thrown around for a Beatles film was a 'Lord of the Rings' adaptation in which John would play Gollum, Georg play Gandalf, Paul would play Frodo, and Ringo would play Sam.")
 (loading_help16
-   "Don't hold the drum sticks too tightly. Use a loose grip, and let them bounce up after each hit.")
+   "Despite 'Not Guilty' taking over 100 takes to record, it was unreleased until appearing on Anthology 3 in 1996. An acoustic and more mellow version of the song was recorded for George's album 'George Harrison' in 1979.")
 (loading_help17
-   "If your leg is getting tired, try keeping your foot pressed down on the pedal between notes.")
+   "'Something' by The Beatles and 'Layla' by Derek and the Dominos are both written about the same girl, Pattie Boyd.")
 #ifdef HX_XBOX
 (loading_help18
-   "Only one person can sing into each microphone at a time -- connect more microphones if multiple people want to sing!")
+   "Lennon was a terrible driver, only getting his license at age 25, then crashing his infamous psychedelic Rolls Royce just two years later, injuring himself, Yoko Ono and each of their children. After that, he gave up driving for good.")
 #endif
 #ifdef HX_PS3
 (loading_help18
-   "Only one person can sing into each microphone at a time -- connect more microphones if multiple people want to sing!")
+   "Lennon was a terrible driver, only getting his license at age 25, then crashing his infamous psychedelic Rolls Royce just two years later, injuring himself, Yoko Ono and each of their children. After that, he gave up driving for good.")
 #endif
 #ifdef HX_WII
 (loading_help18
-   "Only one person can sing into each Logitech® USB microphone at a time -- connect more Logitech® USB microphones if multiple people want to sing at the same time!")
+   "Lennon was a terrible driver, only getting his license at age 25, then crashing his infamous psychedelic Rolls Royce just two years later, injuring himself, Yoko Ono and each of their children. After that, he gave up driving for good.")
 #endif
 #ifdef HX_PC
 (loading_help18
-   "Only one person can sing into each microphone at a time -- connect more microphones if multiple people want to sing!")
+   "Lennon was a terrible driver, only getting his license at age 25, then crashing his infamous psychedelic Rolls Royce just two years later, injuring himself, Yoko Ono and each of their children. After that, he gave up driving for good.")
 #endif
 (loading_help19
-   "If you're having difficulty learning a drum part, break it down! Start with just your foot, then when you have that down, add your hands, one at a time.")
+   "Ringo was praised for his superior acting during the sad walk scene in ‘A Hard Day’s Night,’ but he later admitted he was just severely hungover and showed up to film directly from a nightclub.")
 #ifdef HX_XBOX
 (loading_help2
-   "If you're left-handed, you can select \qLefty Mode\q from the pause menu, or by pressing the BACK button on the Choose Difficulty screen!")
+   "April 24, 1976 was the final time Lennon and McCartney ever saw each other. In John’s New York apartment they watched 'Saturday Night Live' together. Lorne Michaels jokingly offered $3,000 for The Beatles to appear on the show, and they reportedly almost took a cab to the set.")
 #endif
 #ifdef HX_WII
 (loading_help2
-   "If you're left-handed, you can select \qLefty Mode\q from the pause menu, or by pressing the - Button on the Choose Difficulty screen!")
+   "April 24, 1976 was the final time Lennon and McCartney ever saw each other. In John’s New York apartment they watched 'Saturday Night Live' together. Lorne Michaels jokingly offered $3,000 for The Beatles to appear on the show, and they reportedly almost took a cab to the set.")
 #endif
 #ifdef HX_PS3
 (loading_help2
-   "If you're left-handed, you can select \qLefty Mode\q from the pause menu, or by pressing the SELECT button on the Choose Difficulty screen!")
+   "April 24, 1976 was the final time Lennon and McCartney ever saw each other. In John’s New York apartment they watched 'Saturday Night Live' together. Lorne Michaels jokingly offered $3,000 for The Beatles to appear on the show, and they reportedly almost took a cab to the set.")
 #endif
 #ifdef HX_PC
 (loading_help2
-   "If you're left-handed, you can select \qLefty Mode\q from the pause menu, or by pressing the BACK button on the Choose Difficulty screen!")
+   "April 24, 1976 was the final time Lennon and McCartney ever saw each other. In John’s New York apartment they watched 'Saturday Night Live' together. Lorne Michaels jokingly offered $3,000 for The Beatles to appear on the show, and they reportedly almost took a cab to the set.")
 #endif
 (loading_help20
-   "If you see a fast run of notes, try alternating hits between your right and left hands.")
+   "In 2008, a life-sized Beatles shrub topiary was presented at a train station in Liverpool. Unfortunately, Ringo was beheaded after he admitted to he missed nothing about Liverpool.")
 (loading_help21
-   "If space is tight, try the table top configuration. Plug the top of the drum set directly into the feet and put the pedal on the floor.")
+   "Dan Richter, the ape from '2001: A Space Oddessy', sold John Lennon heroin.")
 (loading_help22
-   "Visit the Tutorials and Drum Trainer to learn some drumming fundamentals.")
+   "Despite the name "Pete Best', he was actually the worst")
 (loading_help23
-   "Hit the wide orange notes by pressing the kick pedal down with your foot.")
+   "The first song recorded by Cher as a solo artist was 'Ringo, I Love You' and was released in 1964 under the pseudonym ‘Bonnie Jo Mason’.")
 (loading_help24
-   "Try to make your arrow match up with the vocal lines you see -- they tell you how high or low to sing.")
+   "There’s a Hammon Organ on 'You Won’t See Me' off Rubber Soul. It is played by Mal Evans and he only plays one note.")
 #ifdef HX_XBOX
 (loading_help25
-   "Both vocal modes support anywhere from one to three microphones - you can have three singers in Solo Mode, or one singer in Harmonies, or any other combination you want.")
+   "Frank Sinatra used to introduce 'Something' as his favorite Lennon-McCartney song, but it was actually written by George Harrison")
 #endif
 #ifdef HX_PS3
 (loading_help25
-   "Both vocal modes support anywhere from one to three microphones - you can have three singers in Solo Mode, or one singer in Harmonies, or any other combination you want.")
+   "Frank Sinatra used to introduce 'Something' as his favorite Lennon-McCartney song, but it was actually written by George Harrison")
 #endif
 #ifdef HX_WII
 (loading_help25
-   "Both vocal modes support up to three Logitech® USB microphones -- you can have three Logitech® USB microphones plugged in and all three singers can sing in Solo Mode and you can have only one person singing in Harmonies Mode.")
+   "Frank Sinatra used to introduce 'Something' as his favorite Lennon-McCartney song, but it was actually written by George Harrison")
 #endif
 #ifdef HX_PC
 (loading_help25
-   "Both vocal modes support anywhere from one to three microphones - you can have three singers in Solo Mode, or one singer in Harmonies, or any other combination you want.")
+   "Frank Sinatra used to introduce 'Something' as his favorite Lennon-McCartney song, but it was actually written by George Harrison")
 #endif
 (loading_help26
-   "In Harmonies Mode, you'll get the most points if each singer sticks to a different part -- but you CAN switch around, if you like.")
+   "Paul can be faintly heard saying ‘Oh, f***ing hell’ at 2:58 in ‘Hey Jude’ after he made a mistake during the recording.")
 (loading_help27
-   "Even though they're called Solo vocals, any number of players can sing the vocal part -- it can only help! The singer who performs the best is the one who gets scored.")
+   "'Flying' and 'Dig It' are the only two album tracks to be credited to all four Beatles.")
 (loading_help28
-   "If you see a glowing pattern in spaces between your lyrics, that means that you can send the crowd into Beatlemania -- sing or shout anything during these sections to drive the audience wild!")
+   "Fans began to throw the candy Jelly Babies at The Beatles on stage after George Harrison mentioned he liked them during an interview.")
 (loading_help29
-   "Get a FAB rating to start a 2x score multiplier. String three ratings of FAB or better together to build it up to 4x.")
+   "Most fans believe Paul wrote “It’s Okay To Leave Your Dog in a Hot Car”. It was actually John!")
 (loading_help3
-   "Want to perfect your playing on a particular song? Try it in Practice Mode!")
+   "All four Beatles contracted gonorrhea at some point while performing in Hamburg, Germany!")
 #ifdef HX_XBOX
 (loading_help30
-   "If scrolling words look blurry on your TV, try switching to Static Lyrics Style from the pause menu or by pressing the BACK button on the Choose Difficulty screen.")
+   "Apart from Tony Sheridan, Billy Preston was the only artist to receive joint credit on a Beatles single with 'Get Back' credited to 'The Beatles & Billy Preston.")
 #endif
 #ifdef HX_WII
 (loading_help30
-   "If scrolling words look blurry on your TV, try switching to Static Lyrics Style from the pause menu or by pressing the - Button on the Choose Difficulty screen.")
+   "Apart from Tony Sheridan, Billy Preston was the only artist to receive joint credit on a Beatles single with 'Get Back' credited to 'The Beatles & Billy Preston.")
 #endif
 #ifdef HX_PS3
 (loading_help30
-   "If scrolling words look blurry on your TV, try switching to Static Lyrics Style from the pause menu or by pressing the SELECT button on the Choose Difficulty screen.")
+   "Apart from Tony Sheridan, Billy Preston was the only artist to receive joint credit on a Beatles single with 'Get Back' credited to 'The Beatles & Billy Preston.")
 #endif
 #ifdef HX_PC
 (loading_help30
-   "If scrolling words look blurry on your TV, try switching to Static Lyrics Style from the pause menu or by pressing the BACK button on the Choose Difficulty screen.")
+   "Apart from Tony Sheridan, Billy Preston was the only artist to receive joint credit on a Beatles single with 'Get Back' credited to 'The Beatles & Billy Preston.")
 #endif
 #ifdef HX_XBOX
 (loading_help31
-   "Up to three singers can sing in any song, but each singer needs his/her own microphone.")
+   "In 2004, a pine tree was planted in Los Angeles to honor George Harrison, who spent his last days there. It actually died 10 years later after being infested by beetles.")
 #endif
 #ifdef HX_PS3
 (loading_help31
-   "Up to three singers can sing in any song, but each singer needs his/her own microphone.")
+   "In 2004, a pine tree was planted in Los Angeles to honor George Harrison, who spent his last days there. It actually died 10 years later after being infested by beetles.")
 #endif
 #ifdef HX_WII
 (loading_help31
-   "Up to three singers can sing in any song, but each singer needs his/her own Logitech® USB microphone.")
+   "In 2004, a pine tree was planted in Los Angeles to honor George Harrison, who spent his last days there. It actually died 10 years later after being infested by beetles.")
 #endif
 #ifdef HX_PC
 (loading_help31
-   "Up to three singers can sing in any song, but each singer needs his/her own microphone.")
+   "In 2004, a pine tree was planted in Los Angeles to honor George Harrison, who spent his last days there. It actually died 10 years later after being infested by beetles.")
 #endif
 (loading_help32
-   "Want to sing together but don't know the harmonies? Up to three people can sing together in Solo vocals!")
+   "In March 1966, John controversially remarked that Christianity was in decline and that The Beatles had become more popular than Jesus Christ. This resulted in protests in America’s South, where Beatles records were publicly burned, and hysteria eventually spread to other countries.")
 (loading_help33
-   "Is the vocal part too high or too low for you to sing? You can sing in any octave you're comfortable in, as long as the notes are the same.")
+   "The Beatles were supposed to voice the vultures in the movie The Jungle Book and their manager had even worked out an agreement with Walt Disney, but it was vetoed by John Lennon who reportedly shouted, 'There’s no way the Beatles are going to sing for Mickey ****ing Mouse!'")
 #ifdef HX_PS3
 (loading_help34
-   "Don't have a wireless headset? You can chat using the microphone that is furthest left on the mic check panel. If a vocalist is in the session, press the R2 or L2 button to chat in-game.")
+   "John Lennon said that “Good Morning, Good Morning” was inspired by a cornflake advertisement he heard on the ‘telly’.")
 #endif
 #ifdef HX_XBOX
 (loading_help34
-   "Don't have an Xbox 360 Headset? You can chat using the microphone that is furthest left on the mic check panel. If a vocalist is in the session, pull LT or RT to chat in-game.")
+   "John Lennon said that “Good Morning, Good Morning” was inspired by a cornflake advertisement he heard on the ‘telly’.")
 #endif
 #ifdef HX_WII
 (loading_help34
-   "Need to adjust your Logitech® USB microphone volume? Go to the Pause menu to adjust your vocal volume settings!")
+   "John Lennon said that “Good Morning, Good Morning” was inspired by a cornflake advertisement he heard on the ‘telly’.")
 #endif
 #ifdef HX_PC
 (loading_help34
-   "Don't have an Xbox 360 Headset? You can chat using the microphone that is furthest left on the mic check panel. If a vocalist is in the session, pull LT or RT to chat in-game.")
+   "John Lennon said that “Good Morning, Good Morning” was inspired by a cornflake advertisement he heard on the ‘telly’.")
 #endif
 (loading_help35
-   "Visit the Tutorials to learn advanced vocal techniques and get harmony training!")
+   "On February 11th, 1963, The Beatles recorded 10/14 tracks for ‘Please Please Me’ in less than 13 hours. The band started recording at 10 AM and finished at 10:45 PM")
 #ifdef HX_XBOX
 (loading_help36
-   "Hold the microphone pretty close to your mouth when you sing - a few inches should do it. Your arrow can help you determine whether you're singing at a good distance -- it gets brighter and dimmer based on your volume.")
+   "The cover of ‘Help!’ was intended to feature The Beatles spelling out ‘H-E-L-P’ in flag semaphore, but after realizing it looked unappealing it was changed to spell out ’N-U-J-V’")
 #endif
 #ifdef HX_PS3
 (loading_help36
-   "Hold the microphone pretty close to your mouth when you sing - a few inches should do it. Your arrow can help you determine whether you're singing at a good distance -- it gets brighter and dimmer based on your volume.")
+   "The cover of ‘Help!’ was intended to feature The Beatles spelling out ‘H-E-L-P’ in flag semaphore, but after realizing it looked unappealing it was changed to spell out ’N-U-J-V’")
 #endif
 #ifdef HX_WII
 (loading_help36
-   "Hold the Logitech® USB microphone pretty close to your mouth when you sing - a few inches should do it.")
+   "The cover of ‘Help!’ was intended to feature The Beatles spelling out ‘H-E-L-P’ in flag semaphore, but after realizing it looked unappealing it was changed to spell out ’N-U-J-V’")
 #endif
 #ifdef HX_PC
 (loading_help36
-   "Hold the microphone pretty close to your mouth when you sing - a few inches should do it. Your arrow can help you determine whether you're singing at a good distance -- it gets brighter and dimmer based on your volume.")
+   "The cover of ‘Help!’ was intended to feature The Beatles spelling out ‘H-E-L-P’ in flag semaphore, but after realizing it looked unappealing it was changed to spell out ’N-U-J-V’")
 #endif
 #ifdef HX_XBOX
 (loading_help37
-   "If your voice is sounding distorted, try holding the microphone a little further from your mouth while you sing.")
+   "‘You Can’t Do That’ was filmed and edited for ‘A Hard Day’s Night’ but it was cut from the film. If you look closely, you can spot a teenage Phil Collins in the audience.")
 #endif
 #ifdef HX_WII
 (loading_help37
-   "If your voice is sounding distorted, try holding the Logitech® USB microphone a little further from your mouth while you sing.")
+   "‘You Can’t Do That’ was filmed and edited for ‘A Hard Day’s Night’ but it was cut from the film. If you look closely, you can spot a teenage Phil Collins in the audience.")
 #endif
 #ifdef HX_PS3
 (loading_help37
-   "If your voice is sounding distorted, try holding the microphone a little further from your mouth while you sing.")
+   "‘You Can’t Do That’ was filmed and edited for ‘A Hard Day’s Night’ but it was cut from the film. If you look closely, you can spot a teenage Phil Collins in the audience.")
 #endif
 #ifdef HX_PC
 (loading_help37
-   "If your voice is sounding distorted, try holding the microphone a little further from your mouth while you sing.")
+   "‘You Can’t Do That’ was filmed and edited for ‘A Hard Day’s Night’ but it was cut from the film. If you look closely, you can spot a teenage Phil Collins in the audience.")
 #endif
 #ifdef HX_XBOX
 (loading_help38
-   "Each Xbox 360 Controller can have one Xbox 360 Headset attached. Xbox 360 Headsets can only be used for chatting with others on Xbox LIVE -- not for singing.")
+   "‘If I Needed Someone’ is the only George Harrison-penned song to be played live by The Beatles, appearing in the setlist of their 1966 tour.")
 #endif
 #ifdef HX_PS3
 (loading_help38
-   "You can use a wireless headset for chatting -- but you can only use one, and it cannot be used for singing.")
+   "‘If I Needed Someone’ is the only George Harrison-penned song to be played live by The Beatles, appearing in the setlist of their 1966 tour.")
 #endif
 #ifdef HX_WII
 (loading_help38
-   "Be sure to visit the Tutorials to learn about using Beatlemania to drive the crowd wild, gain extra points, or even save a bandmate who didn't make it through a song!")
+   "‘If I Needed Someone’ is the only George Harrison-penned song to be played live by The Beatles, appearing in the setlist of their 1966 tour.")
 #endif
 #ifdef HX_PC
 (loading_help38
-   "Each Xbox 360 Controller can have one Xbox 360 Headset attached. Xbox 360 Headsets can only be used for chatting with others on Xbox LIVE -- not for singing.")
+   "‘If I Needed Someone’ is the only George Harrison-penned song to be played live by The Beatles, appearing in the setlist of their 1966 tour.")
 #endif
 (loading_help39
-   "To get a band-wide score multiplier going, trigger Beatlemania all at the same time -- you'll earn a bigger score bonus!")
+   "According to 'Let It Be' director Michael Lindsay-Hogg, John once played a tape of him and Yoko making love at a business meeting with the other Beatles present.")
 #ifdef HX_XBOX
 (loading_help4
-   "You only need one Xbox 360 Controller, no matter how many microphones you're using!")
+   "Before introducing it to them in 1964, Bob Dylan assumed The Beatles already smoked weed based on the misheard the lyric  'I get high' in 'I Want To Hold Your Hand’. It was actually 'I can’t hide'")
 #endif
 #ifdef HX_PS3
 (loading_help4
-   "You only need one wireless controller, no matter how many microphones you're using!")
+   "Before introducing it to them in 1964, Bob Dylan assumed The Beatles already smoked weed based on the misheard the lyric  'I get high' in 'I Want To Hold Your Hand’. It was actually 'I can’t hide'")
 #endif
 #ifdef HX_WII
 (loading_help4
-   "You only need one Wii Remote, no matter how many Logitech® USB microphones you're using!")
+   "Before introducing it to them in 1964, Bob Dylan assumed The Beatles already smoked weed based on the misheard the lyric  'I get high' in 'I Want To Hold Your Hand’. It was actually 'I can’t hide'")
 #endif
 #ifdef HX_PC
 (loading_help4
-   "You only need one Xbox 360 Controller, no matter how many microphones you're using!")
+   "Before introducing it to them in 1964, Bob Dylan assumed The Beatles already smoked weed based on the misheard the lyric  'I get high' in 'I Want To Hold Your Hand’. It was actually 'I can’t hide'")
 #endif
 (loading_help40
-   "Check out the Tutorials to learn the basics and improve your technique.")
+   "John Lennon once called an 'emergency board meeting' to inform his bandmates that he realized while tripping on acid that he is indeed the second coming of Jesus Christ.")
 (loading_help41
-   "You can hold down the fret buttons in anticipation of upcoming notes.")
+   "From 1965 to 1970, John Lennon used LSD around a thousand times, making his usage of LSD about at least every 2 days")
 (loading_help42
-   "You earn Photos in the Story by finishing songs with 3 stars, 5 stars, completing a Chapter, or getting 5 stars on all the songs in a Chapter Challenge!")
+   "Dhani Harrison and Conan O'Brien played ‘Birthday’ on The Beatles: Rock Band live on The Tonight Show the night before the game released!")
 (loading_help43
-   "If you're playing a song with very fast note streams, it helps to strum up and down quickly rather than only strumming downwards.")
+   "Rocket from ‘Guardians of the Galaxy’ was named after the song ‘Rocky Raccoon’.")
 (loading_help44
-   "If your guitar controller has two sets of frets, you can use either set of frets to play -- those smaller buttons are great for kids!")
+   "Paul was originally the lead guitar player for The Quarrymen, and only began playing bass guitar after Stuart Sutcliffe quit the group.")
 (loading_help45
-   "Having trouble with challenging guitar parts? Check out the Advanced Tutorial for the tips and tricks that will improve your playing.")
+   "A week after its monumental album release, Jimi Hendrix would open a concert in London with ‘Sgt. Pepper’s Lonely Hearts Club Band.’ Eric Clapton, Pete Townshend and Paul McCartney were all in attendance.")
 (loading_help46
-   "If your guitar controller has two different sets of frets, you can \qfinger tap\q through solos on the high frets near the guitar body -- no strumming required!")
+   "Demos for ‘All Things Must Pass,’ ‘Old Brown Shoe’ and ‘Something’ were all recorded on George’s 26th birthday and appear on the Anthology 3 album. ‘All Things Must Pass’ was rehearsed by the group a lot during the ‘Get Back’ sessions, but never made it as far as the other two.")
 (loading_help47
-   "If your bandmate doesn't manage to make it through the whole song, you can use Beatlemania to bring them back!")
+   "Paul & Linda McCartney had a Pony named Jet and once brought it across the famous crosswalk and right into Abbey Road Studios. He was the inspiration behind the first single from ‘Band On The Run’ and timeless Wings track, ‘Jet’")
 #ifdef HX_PS3
 (loading_help48
-   "If you need to change the audio settings during a song: \nX button = microphone volume \nsquare button = microphone 1's sensitivity \ntriangle button = microphone 2's sensitivity \ncircle button = microphone 3's sensitivity")
+   "The Beatles only used 2 microphones while performing despite having 3-part harmonies. George routinely joined the other harmony singer sharing one mic. This choice helped them to sing the harmonies in close proximity and it made the lead stand out.")
 #endif
 #ifdef HX_XBOX
 (loading_help48
-   "If you need to change the audio settings during a song: \nA button = microphone volume \nX button = microphone 1's sensitivity \nY button = microphone 2's sensitivity \nB button = microphone 3's sensitivity")
+   "The Beatles only used 2 microphones while performing despite having 3-part harmonies. George routinely joined the other harmony singer sharing one mic. This choice helped them to sing the harmonies in close proximity and it made the lead stand out.")
 #endif
 #ifdef HX_WII
 (loading_help48
-   "Need to adjust your Logitech® USB microphone volume? Go to the Pause menu to adjust your vocal volume settings!")
+   "The Beatles only used 2 microphones while performing despite having 3-part harmonies. George routinely joined the other harmony singer sharing one mic. This choice helped them to sing the harmonies in close proximity and it made the lead stand out.")
 #endif
 #ifdef HX_PC
 (loading_help48
-   "If you need to change the audio settings during a song: \nA button = microphone volume \nX button = microphone 1's sensitivity \nY button = microphone 2's sensitivity \nB button = microphone 3's sensitivity")
+   "The Beatles only used 2 microphones while performing despite having 3-part harmonies. George routinely joined the other harmony singer sharing one mic. This choice helped them to sing the harmonies in close proximity and it made the lead stand out.")
 #endif
 (loading_help49
-   "When playing fast patterns, don't pound on the drums! A light touch will increase your accuracy and help you get through the complicated parts.")
+   "According to Ringo, while filming the curling scene in ‘Help!, The Beatles were directed to run away from a bomb. The director called "cut" but they kept on running over a hill so they smoke a joint before going back on set.")
 (loading_help5
-   "If you want to try singing and playing an instrument at the same time, use a mic stand!")
+   "‘Well I was sleeping y’know, and my mother, who passed when I was very young y’know, appeared in my dream and told me, y’know, very gently to just Let It Be, and I wrote a song about it the next morning y’know’ - Paul McCartney on writing ‘Let It Be’")
 (loading_help50
-   "If glowing notes appear while the crowd is going wild, you can hit them perfectly to keep Beatlemania going even longer!")
+   "Most fans believe Paul wrote “It’s Okay To Leave Your Dog in a Hot Car”. It was actually John!")
 #ifdef HX_PS3
 (loading_help51
-   "Buy new songs for The Beatles: Rock Band in the Music Store!")
+   "Paul McCartney and Pete Best were arrested and deported from hamburg after setting fire to a condom nailed to a wall for some light.")
 #endif
 #ifdef HX_XBOX
 (loading_help51
-   "Buy new songs for The Beatles: Rock Band in the Music Store!")
+   "Paul McCartney and Pete Best were arrested and deported from hamburg after setting fire to a condom nailed to a wall for some light.")
 #endif
 #ifdef HX_WII
 (loading_help51
-   "Buy new songs for The Beatles: Rock Band in the Music Store!")
+   "Paul McCartney and Pete Best were arrested and deported from hamburg after setting fire to a condom nailed to a wall for some light.")
 #endif
 #ifdef HX_PC
 (loading_help51
-   "Buy new songs for The Beatles: Rock Band in the Music Store!")
+   "Paul McCartney and Pete Best were arrested and deported from hamburg after setting fire to a condom nailed to a wall for some light.")
 #endif
 (loading_help52
-   "When sustaining a note, you only have to hold down the fret button, not the strum bar.")
+   "McCartney wanted the 14 minute track 'Carnival Of Light' to appear on the Anthology series, but it was vetoed by George ")
 (loading_help53
-   "You can hold down the fret buttons as soon as you see the notes coming down the track. It's the STRUM that causes the note to play.")
+   "Kurt Cobain wrote Nirvana’s song ‘About a Girl’ after listening to the U.S. album ‘Meet The Beatles’ on repeat for an entire day.")
 (loading_help54
-   "You can hammer-on the smaller-looking notes -- visit the Tutorials for more information about hammer-ons and pull-offs.")
+   "Saturday is the only day of the week not mentioned in the song 'Lady Madonna'")
 (loading_help55
-   "Using the whammy bar on sustained notes that are part of glowing phrases will fill up your meter faster!")
+   "The day the Beatles recorded 'She Loves You', fans broke into Abbey Road studio and were running all around the building looking for The Beatles. Police chased the girls through the hallways.")
 #ifdef HX_PS3
 (loading_help56
-   "If you want to sing, you need a wireless controller in addition to your microphone. But if you want to sing with friends, you only need ONE wireless controller for up to three microphones!")
+   "Ringo mispronounces the word Submarine during the last verse of Yellow Submarine as 'Slubmarine'")
 #endif
 #ifdef HX_XBOX
 (loading_help56
-   "If you want to sing, you need an Xbox 360 Controller in addition to your microphone. But if you want to sing with friends, you only need ONE Xbox 360 Controller for up to three microphones!")
+   "Ringo mispronounces the word Submarine during the last verse of Yellow Submarine as 'Slubmarine'")
 #endif
 #ifdef HX_WII
 (loading_help56
-   "If you want to sing, you need a Wii Remote in addition to your Logitech® USB microphone. But if you want to sing with friends, you only need ONE Wii Remote for up to three Logitech® USB microphones!")
+   "Ringo mispronounces the word Submarine during the last verse of Yellow Submarine as 'Slubmarine'")
 #endif
 #ifdef HX_PC
 (loading_help56
-   "If you want to sing, you need an Xbox 360 Controller in addition to your microphone. But if you want to sing with friends, you only need ONE Xbox 360 Controller for up to three microphones!")
+   "Ringo mispronounces the word Submarine during the last verse of Yellow Submarine as 'Slubmarine'")
 #endif
 #ifdef HX_XBOX
 (loading_help57
-   "Having a hard time getting through to the end of a song? You can turn on the No-Fail option by pressing the BACK button on the Instrument Join screen in Quickplay. Or you can play on Easy, where No-Fail is always on!")
+   "After the release of Abbey Road, the Volkswagen Beetle that appears on the cover had it's license plate repeatedly stolen")
 #endif
 #ifdef HX_WII
 (loading_help57
-   "Having a hard time getting through to the end of a song? You can turn on the No-Fail option by pressing the - Button on the Instrument Join screen  in Quickplay. Or you can play on Easy, where No-Fail is always on!")
+   "After the release of Abbey Road, the Volkswagen Beetle that appears on the cover had it's license plate repeatedly stolen")
 #endif
 #ifdef HX_PS3
 (loading_help57
-   "Having a hard time getting through to the end of a song? You can turn on the No-Fail option by pressing the SELECT button on the Instrument Join screen in Quickplay. Or you can play on Easy, where No-Fail is always on!")
+   "After the release of Abbey Road, the Volkswagen Beetle that appears on the cover had it's license plate repeatedly stolen")
 #endif
 #ifdef HX_PC
 (loading_help57
-   "Having a hard time getting through to the end of a song? You can turn on the No-Fail option by pressing the BACK button on the Instrument Join screen in Quickplay. Or you can play on Easy, where No-Fail is always on!")
+   "After the release of Abbey Road, the Volkswagen Beetle that appears on the cover had it's license plate repeatedly stolen")
 #endif
 (loading_help58
-   "Compete against your friends' high scores (or the whole world's high scores) by checking out the Leaderboards in Quickplay or Chapter Challenges!")
+   "Within two weeks of it’s release, ‘All You Need Is Love’ was announced by Microsoft and MTV to be the fastest-selling downloadable song across any of the Rock Band platforms. The song was downloaded over 100,000 times by the end of September 2009 and generated over $200,000 for the charity!")
 #ifdef HX_XBOX
 (loading_help59
-   "Having an off night? Choose the No-Fail option by pressing the BACK button on the Instrument Join screen in Quickplay!")
+   "Most controversial among the many bizarre art films Lennon made with Yoko Ono was Self Portrait, a 15-minute slow-motion shot of Lennon's [REDACTED] going from [REDACTED] to [REDACTED].")
 #endif
 #ifdef HX_WII
 (loading_help59
-   "Having an off night? Choose the No-Fail option by pressing the - Button on the Instrument Join screen in Quickplay!")
+   "Most controversial among the many bizarre art films Lennon made with Yoko Ono was Self Portrait, a 15-minute slow-motion shot of Lennon's [REDACTED] going from [REDACTED] to [REDACTED].")
 #endif
 #ifdef HX_PS3
 (loading_help59
-   "Having an off night? Choose the No-Fail option by pressing the SELECT button on the Instrument Join screen in Quickplay!")
+   "Most controversial among the many bizarre art films Lennon made with Yoko Ono was Self Portrait, a 15-minute slow-motion shot of Lennon's [REDACTED] going from [REDACTED] to [REDACTED].")
 #endif
 #ifdef HX_PC
 (loading_help59
-   "Having an off night? Choose the No-Fail option by pressing the BACK button on the Instrument Join screen in Quickplay!")
+   "Most controversial among the many bizarre art films Lennon made with Yoko Ono was Self Portrait, a 15-minute slow-motion shot of Lennon's [REDACTED] going from [REDACTED] to [REDACTED].")
 #endif
 (loading_help6
-   "If you get a long enough streak on Bass, you'll start a Bass Groove and get up to a 6x score multiplier!")
+   "Höfner had never built a 500/1 violin bass for left-handed players before McCartney had asked the music shop owner to order a custom-made one in 1961. Because of this, his bass at the time was one of a kind.")
 #ifdef HX_XBOX
 (loading_help60
-   "If you like karaoke, you might prefer Static Lyrics. You can toggle between Scrolling or Static by pressing the BACK button on the Choose Difficulty screen.")
+   "‘Twist and Shout’ was the last song recorded for ‘Please Please Me.’ According to Lennon, ‘The last song nearly killed me, my voice wasn’t the same for a long time after— every time I swallowed it was like sandpaper.’")
 #endif
 #ifdef HX_PS3
 (loading_help60
-   "If you like karaoke, you might prefer Static lyrics -- toggle between between Scrolling or Static by pressing the SELECT button on the Choose Difficulty screen.")
+   "‘Twist and Shout’ was the last song recorded for ‘Please Please Me.’ According to Lennon, ‘The last song nearly killed me, my voice wasn’t the same for a long time after— every time I swallowed it was like sandpaper.’")
 #endif
 #ifdef HX_WII
 (loading_help60
-   "If you like karaoke, you might prefer Static lyrics -- toggle between between Scrolling or Static by pressing the - Button on the Choose Difficulty screen.")
+   "‘Twist and Shout’ was the last song recorded for ‘Please Please Me.’ According to Lennon, ‘The last song nearly killed me, my voice wasn’t the same for a long time after— every time I swallowed it was like sandpaper.’")
 #endif
 #ifdef HX_PC
 (loading_help60
-   "If you like karaoke, you might prefer Static Lyrics. You can toggle between Scrolling or Static by pressing the BACK button on the Choose Difficulty screen.")
+   "‘Twist and Shout’ was the last song recorded for ‘Please Please Me.’ According to Lennon, ‘The last song nearly killed me, my voice wasn’t the same for a long time after— every time I swallowed it was like sandpaper.’")
 #endif
 (loading_help61
-   "You don't have to worry about missing notes when playing on Easy. No-Fail protection is always on for Easy players!")
+   "In 1980, Paul McCartney was arrested in Tokyo, Japan for bringing 7.7 oz of weed in a suitcase. He was imprisoned for a total of 10 days until being released without charge and deported to England. It was the first and only time during their relationship that Paul and Linda were separated for more than a day.")
 (loading_help63
-   "If your meter is at least half full and you want to drive the crowd wild, wait until you see a glowing green crash note (red if Lefty) -- hit it to trigger Beatlemania! Or, you can skip it to save your power, and you won't even break your streak.")
+   "The Shea Stadium performance was the first time a rock group had ever played a sports stadium before. Unfortunately, the people in the higher seats only got to hear their vocals come out of a poor quality PA system, with the instruments coming at a delay from the huge speakers down below.")
 (loading_help64
-   "During spoken or non-pitched phrases, you aren't being rated on your performance -- have some fun with them!")
+   "'Her Majesty' was originally supposed to be placed in between 'Mean Mr. Mustard' and 'Polythene Pam' but it was removed. Engineer John Kurlander was told to toss the song but instead tacked it on to the end of the whole medley. The Beatles liked how it sounded and kept it there.")
 (loading_help66
-   "Struggling with the more complex beats? Visit the Drum Trainer from the Training menu to improve your skill -- check out Drum Lessons, Beatle Beats, or experiment in Freestyle Mode!")
+   "Ringo Starr was the first narrator for British children’s television series ‘Thomas the Tank Engine & Friends’ and was the voice of the series from 1984-1986.")
 #ifdef HX_PS3
 (loading_help67
-   "In Freestyle Mode in the Drum Trainer, you can press the PS button to select and drum along with your own backing music from the  XMB<sup>TM</sup> menu.")
+   "Despite appearing in a Pizza Hut commercial with The Monkees in 1995, Ringo has never eaten pizza in his life. He once explained ‘I’m highly allergic to onions and garlic and spices, I’ve never had a pizza, never had a curry.’")
 #endif
 #ifdef HX_XBOX
 (loading_help67
-   "In Freestyle Mode in the Drum Trainer, you can select any music from your Xbox Guide music player.")
+   "Despite appearing in a Pizza Hut commercial with The Monkees in 1995, Ringo has never eaten pizza in his life. He once explained ‘I’m highly allergic to onions and garlic and spices, I’ve never had a pizza, never had a curry.’")
 #endif
 #ifdef HX_WII
 (loading_help67
-   "If you want to experiment with your own drum beats, try Freestyle Mode in the Drum Trainer!")
+   "Despite appearing in a Pizza Hut commercial with The Monkees in 1995, Ringo has never eaten pizza in his life. He once explained ‘I’m highly allergic to onions and garlic and spices, I’ve never had a pizza, never had a curry.’")
 #endif
 #ifdef HX_PC
 (loading_help67
-   "In Freestyle Mode in the Drum Trainer, you can select any music from your Xbox Guide music player.")
+   "Despite appearing in a Pizza Hut commercial with The Monkees in 1995, Ringo has never eaten pizza in his life. He once explained ‘I’m highly allergic to onions and garlic and spices, I’ve never had a pizza, never had a curry.’")
 #endif
 (loading_help68
-   "Do you feel like you're missing notes when you shouldn't be? Try calibrating from the Options menu.")
+   "On November 9, 1966, Paul McCartney was killed in a car crash at approximately 5:00 AM on the way to a recording session. When the band and their management heard the news, they quickly worked out a way to cover up the tragedy with a lookalike named William Campbell!")
 #ifdef HX_XBOX
 (loading_help69
-   "Looking for a more relaxed band experience? Choose the \qNo Fail\q option by pressing the BACK button on the Instrument Join screen in Quickplay, or play on Easy difficulty where No-Fail is always on!")
+   "One of the more heated moments during the ‘Let It Be’ sessions came between John and George after Yoko had taken George’s chocolate biscuit without asking. From the control room, he shouted ‘THAT B****! She’s just taken one of my biscuits!’")
 #endif
 #ifdef HX_PS3
 (loading_help69
-   "Looking for a more relaxed band experience? Choose the \qNo Fail\q option by pressing the SELECT button on the Instrument Join screen in Quickplay, or play on Easy difficulty where No-Fail is always on!")
+   "One of the more heated moments during the ‘Let It Be’ sessions came between John and George after Yoko had taken George’s chocolate biscuit without asking. From the control room, he shouted ‘THAT B****! She’s just taken one of my biscuits!’")
 #endif
 #ifdef HX_WII
 (loading_help69
-   "Looking for a more relaxed band experience? Choose the \qNo Fail\q option by pressing the - Button on the Instrument Join screen in Quickplay, or play on Easy difficulty where No-Fail is always on!")
+   "One of the more heated moments during the ‘Let It Be’ sessions came between John and George after Yoko had taken George’s chocolate biscuit without asking. From the control room, he shouted ‘THAT B****! She’s just taken one of my biscuits!’")
 #endif
 #ifdef HX_PC
 (loading_help69
-   "Looking for a more relaxed band experience? Choose the \qNo Fail\q option by pressing the BACK button on the Instrument Join screen in Quickplay, or play on Easy difficulty where No-Fail is always on!")
+   "One of the more heated moments during the ‘Let It Be’ sessions came between John and George after Yoko had taken George’s chocolate biscuit without asking. From the control room, he shouted ‘THAT B****! She’s just taken one of my biscuits!’")
 #endif
 (loading_help7
-   "You might want to consider purchasing a real guitar! They're less expensive than you might think, and far noisier.")
+   "Harrison became the first Beatle band member to play in the U.S in 1963, playing with The ‘Four Vests’ band during a visit to his sister in Illinois. He took over lead guitar in the second set and sang ‘Your Cheatin’ Heart’ and ‘Roll Over Beethoven’")
 #ifdef HX_XBOX
 (loading_help70
-   "Not interested in trying to get a high score? Choose the \qNo Fail\q option by pressing the BACK button on the Instrument Join screen in Quickplay, or play on Easy difficulty where No-Fail is always on!")
+   "If you play Paul McCartney's 'Maybe I'm Amazed' backwards, you'll hear a recipe for a really ripping lentil soup!")
 #endif
 #ifdef HX_WII
 (loading_help70
-   "Not interested in trying to get a high score? Choose the \qNo Fail\q option by pressing the - Button on the Instrument Join screen in Quickplay, or play on Easy difficulty where No-Fail is always on!")
+   "If you play Paul McCartney's 'Maybe I'm Amazed' backwards, you'll hear a recipe for a really ripping lentil soup!")
 #endif
 #ifdef HX_PS3
 (loading_help70
-   "Not interested in trying to get a high score? Choose the \qNo Fail\q option by pressing the SELECT button on the Instrument Join screen in Quickplay, or play on Easy difficulty where No-Fail is always on!")
+   "If you play Paul McCartney's 'Maybe I'm Amazed' backwards, you'll hear a recipe for a really ripping lentil soup!")
 #endif
 #ifdef HX_PC
 (loading_help70
-   "Not interested in trying to get a high score? Choose the \qNo Fail\q option by pressing the BACK button on the Instrument Join screen in Quickplay, or play on Easy difficulty where No-Fail is always on!")
+   "If you play Paul McCartney's 'Maybe I'm Amazed' backwards, you'll hear a recipe for a really ripping lentil soup!")
 #endif
 (loading_help71
-   "If the one side of the drum track starts glowing, pay attention, because an opportunity to trigger Beatlemania is coming up soon!")
+   "In 2019 a legal battle ensued between Ringo Starr and adult toy company ‘Ring O’ concerning any connection would tarnish his ‘name, likeness, and brand’. In 2021 a settlement was made consenting the use of the name ‘so long as there is a separation between the word 'RING' and the letter 'O''")
 #ifdef HX_XBOX
 (loading_help72
-   "You can switch the Leaderboards you see in Quickplay between Solo and Harmonies by pressing the X button.")
+   "John Lennon wanted to release 'What's the New Mary Jane' with the flipside being 'You Know My Name (Look Up the Number)' as the first Plastic Ono Band single.")
 #endif
 #ifdef HX_PS3
 (loading_help72
-   "You can switch the Leaderboards you see in Quickplay between Solo and Harmonies by pressing the square button.")
+   "John Lennon wanted to release 'What's the New Mary Jane' with the flipside being 'You Know My Name (Look Up the Number)' as the first Plastic Ono Band single.")
 #endif
 #ifdef HX_WII
 (loading_help72
-   "You can switch the Leaderboards you see in Quickplay between Solo and Harmonies by pressing the 1 button.")
+   "John Lennon wanted to release 'What's the New Mary Jane' with the flipside being 'You Know My Name (Look Up the Number)' as the first Plastic Ono Band single.")
 #endif
 #ifdef HX_PC
 (loading_help72
-   "You can switch the Leaderboards you see in Quickplay between Solo and Harmonies by pressing the X button.")
+   "John Lennon wanted to release 'What's the New Mary Jane' with the flipside being 'You Know My Name (Look Up the Number)' as the first Plastic Ono Band single.")
 #endif
 (loading_help73
-   "You can switch the Leaderboards you see in Quickplay between Bass and Guitar by pressing the Blue fret.")
+   "According to engineer Geoff Emmerick, Paul plays the guitar solo on Taxman because George couldn't pull it off when they were recording it. ")
 (loading_help74
-   "Did your star rating drop when your score increased? Don't worry -- that means you did better on a higher difficulty. Keep trying on that higher difficulty to get your star rating up!")
+   "Phil Spector, producer of the ‘Let It Be’ album and some other solo works, once fired a gun in John’s control room and chased him around the studio yelling threats. Later in 2009, he was sentenced 19 years in prison for the murder of actress Lana Clarkson. He died in 2021!")
 #ifdef HX_XBOX
 (loading_help75
-   "Did your instrument icon change to a new color? Good work! You can unlock more instrument icons by earning Achievements!")
+   "A commercial for The Beatles: Rock Band featured a live action recreation of the ‘Abbey Road’ album cover, as they cross the road with a crowd of people following, some carrying the replica guitar controllers. An Abbey Road set was built at a Hollywood studio, and archival footage of The Beatles was blended into the video with CGI.")
 #endif
 #ifdef HX_PS3
 (loading_help75
-   "Did your instrument icon change to a new color? Good work! You can unlock more instrument icons by earning Trophies!")
+   "A commercial for The Beatles: Rock Band featured a live action recreation of the ‘Abbey Road’ album cover, as they cross the road with a crowd of people following, some carrying the replica guitar controllers. An Abbey Road set was built at a Hollywood studio, and archival footage of The Beatles was blended into the video with CGI.")
 #endif
 #ifdef HX_WII
 (loading_help75
-   "Did your instrument icon change to a new color? Good work! You can unlock more instrument icons by earning Accomplishments!")
+   "A commercial for The Beatles: Rock Band featured a live action recreation of the ‘Abbey Road’ album cover, as they cross the road with a crowd of people following, some carrying the replica guitar controllers. An Abbey Road set was built at a Hollywood studio, and archival footage of The Beatles was blended into the video with CGI.")
 #endif
 #ifdef HX_PC
 (loading_help75
-   "Did your instrument icon change to a new color? Good work! You can unlock more instrument icons by earning Achievements!")
+   "A commercial for The Beatles: Rock Band featured a live action recreation of the ‘Abbey Road’ album cover, as they cross the road with a crowd of people following, some carrying the replica guitar controllers. An Abbey Road set was built at a Hollywood studio, and archival footage of The Beatles was blended into the video with CGI.")
 #endif
 #ifdef HX_XBOX
 (loading_help76
-   "Want to change your instrument icon? You can gain new icon options by earning Achievements and you can change your icon type in the Options menu under Player Settings.")
+   "Neil Aspinall, manager of Apple Corps and longtime Beatles associate, had a child with Pete Best’s mom after he asked him to become the road manager. Pete Best was fired from The Beatles 3 weeks later.")
 #endif
 #ifdef HX_PS3
 (loading_help76
-   "Want to change your instrument icon? You can gain new icon options by earning Trophies and you can change your icon type in the Options menu under Player Settings.")
+   "Neil Aspinall, manager of Apple Corps and longtime Beatles associate, had a child with Pete Best’s mom after he asked him to become the road manager. Pete Best was fired from The Beatles 3 weeks later.")
 #endif
 #ifdef HX_WII
 (loading_help76
-   "Want to change your instrument icon? You can gain new icon options by earning Accomplishments and you can change your icon type in the Options menu under Player Settings.")
+   "Neil Aspinall, manager of Apple Corps and longtime Beatles associate, had a child with Pete Best’s mom after he asked him to become the road manager. Pete Best was fired from The Beatles 3 weeks later.")
 #endif
 #ifdef HX_PC
 (loading_help76
-   "Want to change your instrument icon? You can gain new icon options by earning Achievements and you can change your icon type in the Options menu under Player Settings.")
+   "Neil Aspinall, manager of Apple Corps and longtime Beatles associate, had a child with Pete Best’s mom after he asked him to become the road manager. Pete Best was fired from The Beatles 3 weeks later.")
 #endif
 (loading_help77
-   "On the Song Selection screen, you can instantly create a setlist of all the songs in a category by clicking on the category heading -- that means you can play all the songs from a specific difficulty, album, venue, and more!")
+   "'I was over at John’s house, and it was just a group of us. And instead of just getting roaring drunk and partying we were all just in these chairs, and the lights were out, and somebody started masturbating, so we all did.'— Paul McCartney on the inspiration behind the track 'Come Together'")
 #ifdef HX_XBOX
 (loading_help78
-   "When you're looking at a photo in the Photo Album, you can press up and down on the D-pad or strum up and down to change photos.")
+   "The Beatles: Rock Band released on 9/9/09, the same day as the entire remastered catalog was released in Stereo and Mono to CD. This day also introduced re-releases of ‘1962-1966’, ‘1967-1970’, the ‘1’ compilation, and Yellow Submarine Songtrack!")
 #endif
 #ifdef HX_PS3
 (loading_help78
-   "When you're looking at a photo in the Photo Album, you can press up button & down button or strum up and down to change photos.")
+   "The Beatles: Rock Band released on 9/9/09, the same day as the entire remastered catalog was released in Stereo and Mono to CD. This day also introduced re-releases of ‘1962-1966’, ‘1967-1970’, the ‘1’ compilation, and Yellow Submarine Songtrack!")
 #endif
 #ifdef HX_WII
 (loading_help78
-   "When you're looking at a photo in the Photo Album, you can press Up or Down on the +Control Pad or strum up and down to change photos.")
+   "The Beatles: Rock Band released on 9/9/09, the same day as the entire remastered catalog was released in Stereo and Mono to CD. This day also introduced re-releases of ‘1962-1966’, ‘1967-1970’, the ‘1’ compilation, and Yellow Submarine Songtrack!")
 #endif
 #ifdef HX_PC
 (loading_help78
-   "When you're looking at a photo in the Photo Album, you can press up and down on the D-pad or strum up and down to change photos.")
+   "The Beatles: Rock Band released on 9/9/09, the same day as the entire remastered catalog was released in Stereo and Mono to CD. This day also introduced re-releases of ‘1962-1966’, ‘1967-1970’, the ‘1’ compilation, and Yellow Submarine Songtrack!")
 #endif
 (loading_help8
-   "You might want to think about buying a real drum kit! You'll learn quickly what your neighbors really think of you...")
+   "Although Ringo is left-handed, he plays drums with a traditionally right-handed set up.")
 (loading_help9
-   "If you earn enough Photos in your Story, you will earn Prizes -- earn them all to prove you're the ultimate collector!")
+   "The Beatles: Rock Band was first revealed to the public during Paul’s 2009 Coachella performance. The animated Beatles appeared on the screen behind him during ‘Got To Get You Into My Life’ and was the first time anyone had seen footage from the game.")
 (locale_currency
    "$")
 (locale_decimal_separator
